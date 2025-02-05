@@ -2,3 +2,7 @@ body {
     background-color: #c0fdfb;
     color: #001F54;
 }
+
+.content {
+    margin: 40px;
+}
