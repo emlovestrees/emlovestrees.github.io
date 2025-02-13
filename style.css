@@ -6,3 +6,7 @@ body {
 .content {
     margin: 40px;
 }
+
+h1 {
+    font-family: "Noto Sans Buhid",sans-serif;
+}
