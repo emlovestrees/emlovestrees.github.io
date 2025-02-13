@@ -14,3 +14,11 @@ h1 {
 body {
     font-family: "Chocolate Classical Sans", Helvetica, sans-serif;
 }
+
+.nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: left;
+    gap: 20px;
+    margin-left: 20px;
+}
