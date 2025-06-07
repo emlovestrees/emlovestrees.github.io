@@ -24,6 +24,7 @@ body {
     list-style-type: none;
     justify-content: left;
     gap: 20px;
+    flex-wrap: wrap;
 }
 
 a:link {
