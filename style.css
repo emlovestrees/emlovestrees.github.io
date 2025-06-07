@@ -37,3 +37,7 @@ a:visited {
 a:hover {
     color: #A8D34A;
 }
+
+.cheese {
+    display: flex;
+}
